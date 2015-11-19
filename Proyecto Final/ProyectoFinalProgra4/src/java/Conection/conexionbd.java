@@ -77,7 +77,7 @@ public class conexionbd extends HttpServlet {
     @Override
     protected void doPost(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
-        processRequest(request, response);
+        //processRequest(request, response);
         
         response.setContentType("text/html;charset=UTF-8");
         PrintWriter out;
@@ -90,7 +90,7 @@ public class conexionbd extends HttpServlet {
             out.println("<title>Servlet conexionbd</title>");            
             out.println("</head>");
             out.println("<body>");
-            out.println("<h1>Servlet conexionbd at " + request.getContextPath() + "</h1>");
+            out.println("<h1>Bienvenido a esta pagina </h1>");
             
         
         
@@ -105,7 +105,7 @@ public class conexionbd extends HttpServlet {
 			conection = java.sql.DriverManager.getConnection(url,user,password);
 			Statement s = conection.createStatement();
 			
-                        out.println("<h3>Se ha realizado la conexión con éxito </h3>");
+                       out.println("<h1>Se ha realizado la conexión con éxito </h1>");
 			//String sql = "INSERT INTO entradas VALUES (NULL,'"+request.getParameter("nombre")+"','"+request.getParameter("email")+"','"+request.getParameter("fecha")+"')"; //Insert SQL
 			//s.executeUpdate(sql); //Ejecutar la consulta
 			//out.println("El registro se ha guadado con �xito"); //Mensaje de �xito

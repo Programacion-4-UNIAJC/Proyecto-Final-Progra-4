@@ -6,10 +6,12 @@ El proyecto ha sido dividido en grupos para poder hacer desarrollo colaborativo 
 #Grupo-Desarrollo-BackEnd
 Integrantes:
 ---------------------------------------
-- 
-- 
-- 
-- 
+- Jhon Daniel Benitez
+- Yeniffer Lucimi caicedo
+- Juan Camilo Peñaranda
+- Andreina Chara
+- Hugo Adrian García
+- Andrez Lozano
 - 
 - 
 
@@ -18,9 +20,10 @@ Integrantes:
 #Grupo-Desarrollo-FrontEnd
 Integrantes:
 ---------------------------------------
-- 
-- 
-- 
+- Felipe Guerrero
+- Stevan Castillo
+- Darleyi Zapata
+- Alexander Castaño
 - 
 
 
@@ -28,9 +31,9 @@ Integrantes:
 #Grupo-Desarrollo-Pruebas
 Integrantes:
 ---------------------------------------
-- 
-- 
-- 
+- Jairo Flores
+- Jefer Ramirez
+- Duver Hernando Urbano
 - 
 
 
@@ -38,7 +41,7 @@ Integrantes:
 #Grupo-Documentación
 Integrantes:
 ---------------------------------------
-- 
+- Samir Millan
 - 
 - 
 - 
